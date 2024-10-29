@@ -1,0 +1,375 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - LearnDash\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-11-05 18:17+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-learndash.php:145
+#, php-format
+msgid "AutomatorWP - LearnDash requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-learndash.php:158
+msgid "You can uninstall AutomatorWP - LearnDash Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/actions/create-group.php:26
+msgid "Create a group"
+msgstr ""
+
+#: includes/actions/create-group.php:27
+msgid "Create a <strong>group</strong>"
+msgstr ""
+
+#: includes/actions/create-group.php:29 includes/actions/create-group.php:31
+#, php-format
+msgid "Create a %1$s"
+msgstr ""
+
+#: includes/actions/create-group.php:34
+#: includes/actions/user-group-leader.php:34
+msgid "group"
+msgstr ""
+
+#: includes/actions/create-group.php:37
+msgid "Group naame:"
+msgstr ""
+
+#: includes/actions/create-group.php:41
+msgid "Group course:"
+msgstr ""
+
+#: includes/actions/create-group.php:44
+msgid "Select a course"
+msgstr ""
+
+#: includes/actions/create-group.php:48
+#: includes/actions/user-group-leader.php:44
+msgid "If user doesn't have the \"Group Leader\" role:"
+msgstr ""
+
+#: includes/actions/create-group.php:51
+#: includes/actions/user-group-leader.php:47
+msgid "Do nothing"
+msgstr ""
+
+#: includes/actions/create-group.php:52
+#: includes/actions/user-group-leader.php:48
+msgid "Add the role to their existing roles"
+msgstr ""
+
+#: includes/actions/create-group.php:53
+#: includes/actions/user-group-leader.php:49
+msgid "Replace their existing roles with the \"Group Leader\" role"
+msgstr ""
+
+#: includes/actions/mark-course.php:26
+msgid "Mark course as completed"
+msgstr ""
+
+#: includes/actions/mark-course.php:27
+msgid "Mark course as <strong>completed</strong>"
+msgstr ""
+
+#: includes/actions/mark-course.php:29 includes/actions/mark-course.php:31
+#: includes/actions/mark-lesson.php:29 includes/actions/mark-lesson.php:31
+#: includes/actions/mark-topic.php:29 includes/actions/mark-topic.php:31
+#, php-format
+msgid "Mark %1$s as completed"
+msgstr ""
+
+#: includes/actions/mark-course.php:34 includes/actions/user-course.php:34
+#: includes/triggers/complete-course.php:38
+msgid "Course:"
+msgstr ""
+
+#: includes/actions/mark-course.php:35 includes/actions/user-course.php:35
+msgid "all courses"
+msgstr ""
+
+#: includes/actions/mark-lesson.php:26
+msgid "Mark lesson as completed"
+msgstr ""
+
+#: includes/actions/mark-lesson.php:27
+msgid "Mark lesson as <strong>completed</strong>"
+msgstr ""
+
+#: includes/actions/mark-lesson.php:34 includes/triggers/complete-lesson.php:38
+msgid "Lesson:"
+msgstr ""
+
+#: includes/actions/mark-lesson.php:35
+msgid "all lessons"
+msgstr ""
+
+#: includes/actions/mark-topic.php:26
+msgid "Mark topic as completed"
+msgstr ""
+
+#: includes/actions/mark-topic.php:27
+msgid "Mark topic as <strong>completed</strong>"
+msgstr ""
+
+#: includes/actions/mark-topic.php:34 includes/triggers/complete-topic.php:38
+msgid "Topic:"
+msgstr ""
+
+#: includes/actions/mark-topic.php:35
+msgid "all topics"
+msgstr ""
+
+#: includes/actions/user-course.php:26
+msgid "Enroll user from a course"
+msgstr ""
+
+#: includes/actions/user-course.php:27
+msgid "Enroll user from <strong>a course</strong>"
+msgstr ""
+
+#: includes/actions/user-course.php:29 includes/actions/user-course.php:31
+#, php-format
+msgid "Enroll user to %1$s"
+msgstr ""
+
+#: includes/actions/user-group-leader.php:26
+msgid "Make user the leader of a group"
+msgstr ""
+
+#: includes/actions/user-group-leader.php:27
+msgid "Make user the <strong>leader</strong> of a group"
+msgstr ""
+
+#: includes/actions/user-group-leader.php:29
+#: includes/actions/user-group-leader.php:31
+#, php-format
+msgid "Make user the leader of a %1$s"
+msgstr ""
+
+#: includes/actions/user-group-leader.php:37 includes/actions/user-group.php:34
+msgid "Group:"
+msgstr ""
+
+#: includes/actions/user-group-leader.php:40
+msgid "Select a group"
+msgstr ""
+
+#: includes/actions/user-group.php:26
+msgid "Add user to a group"
+msgstr ""
+
+#: includes/actions/user-group.php:27
+msgid "Add user to <strong>a group</strong>"
+msgstr ""
+
+#: includes/actions/user-group.php:29 includes/actions/user-group.php:31
+#, php-format
+msgid "Add user to %1$s"
+msgstr ""
+
+#: includes/actions/user-group.php:35
+msgid "all groups"
+msgstr ""
+
+#: includes/triggers/complete-course.php:26
+msgid "User completes a course"
+msgstr ""
+
+#: includes/triggers/complete-course.php:27
+msgid "User completes <strong>a course</strong>"
+msgstr ""
+
+#: includes/triggers/complete-course.php:29
+#: includes/triggers/complete-lesson.php:29
+#: includes/triggers/complete-topic.php:29
+#, php-format
+msgid "User completes %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/complete-course.php:31
+#: includes/triggers/complete-lesson.php:31
+#: includes/triggers/complete-topic.php:31
+#, php-format
+msgid "User completes %1$s"
+msgstr ""
+
+#: includes/triggers/complete-course.php:39
+#: includes/triggers/view-course.php:39
+msgid "any course"
+msgstr ""
+
+#: includes/triggers/complete-lesson.php:26
+msgid "User completes a lesson"
+msgstr ""
+
+#: includes/triggers/complete-lesson.php:27
+msgid "User completes <strong>a lesson</strong>"
+msgstr ""
+
+#: includes/triggers/complete-lesson.php:39
+#: includes/triggers/view-lesson.php:39
+msgid "any lesson"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:26
+msgid "User completes a quiz with a grade percentage greater than, less than or equal to a specific percentage"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:27
+msgid "User completes a quiz with a grade percentage <strong>greater than, less than or equal</strong> to a specific percentage"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:29
+#, php-format
+msgid "User completes %1$s with a grade percentage %2$s %3$s %4$s time(s)"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:31
+#, php-format
+msgid "User completes %1$s with a grade percentage %2$s %3$s"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:38
+#: includes/triggers/complete-quiz.php:53
+msgid "Quiz:"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:39
+#: includes/triggers/complete-quiz.php:54 includes/triggers/view-quiz.php:39
+msgid "any quiz"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:47
+msgid "Percentage:"
+msgstr ""
+
+#: includes/triggers/complete-quiz-percentage.php:48
+msgid "The grade percentage required."
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:26
+msgid "User attempts, passes or fails a quiz"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:27
+msgid "User <strong>attempts, passes or fails</strong> a quiz"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:29
+#, php-format
+msgid "User %1$s %2$s %3$s time(s)"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:31
+#, php-format
+msgid "User %1$s %2$s"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:41
+msgid "Operation:"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:44
+msgid "attempts"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:45
+msgid "passes"
+msgstr ""
+
+#: includes/triggers/complete-quiz.php:46
+msgid "fails"
+msgstr ""
+
+#: includes/triggers/complete-topic.php:26
+msgid "User completes a topic"
+msgstr ""
+
+#: includes/triggers/complete-topic.php:27
+msgid "User completes <strong>a topic</strong>"
+msgstr ""
+
+#: includes/triggers/complete-topic.php:39 includes/triggers/view-topic.php:39
+msgid "any topic"
+msgstr ""
+
+#: includes/triggers/view-course.php:26
+msgid "User views a course"
+msgstr ""
+
+#: includes/triggers/view-course.php:27
+msgid "User views <strong>a course</strong>"
+msgstr ""
+
+#: includes/triggers/view-course.php:29 includes/triggers/view-lesson.php:29
+#: includes/triggers/view-quiz.php:29 includes/triggers/view-topic.php:29
+#, php-format
+msgid "User views %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/view-course.php:31 includes/triggers/view-lesson.php:31
+#: includes/triggers/view-quiz.php:31 includes/triggers/view-topic.php:31
+#, php-format
+msgid "User views %1$s"
+msgstr ""
+
+#: includes/triggers/view-course.php:38 includes/triggers/view-lesson.php:38
+#: includes/triggers/view-quiz.php:38 includes/triggers/view-topic.php:38
+msgid "Page:"
+msgstr ""
+
+#: includes/triggers/view-course.php:45
+msgid "Course"
+msgstr ""
+
+#: includes/triggers/view-lesson.php:26
+msgid "User views a lesson"
+msgstr ""
+
+#: includes/triggers/view-lesson.php:27
+msgid "User views <strong>a lesson</strong>"
+msgstr ""
+
+#: includes/triggers/view-lesson.php:45
+msgid "Lesson"
+msgstr ""
+
+#: includes/triggers/view-quiz.php:26
+msgid "User views a quiz"
+msgstr ""
+
+#: includes/triggers/view-quiz.php:27
+msgid "User views <strong>a quiz</strong>"
+msgstr ""
+
+#: includes/triggers/view-quiz.php:45
+msgid "Quiz"
+msgstr ""
+
+#: includes/triggers/view-topic.php:26
+msgid "User views a topic"
+msgstr ""
+
+#: includes/triggers/view-topic.php:27
+msgid "User views <strong>a topic</strong>"
+msgstr ""
+
+#: includes/triggers/view-topic.php:45
+msgid "Topic"
+msgstr ""
